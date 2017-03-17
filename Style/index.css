@@ -1,0 +1,53 @@
+body{margin:0 0;color:gray;}
+#bg{width:100%;;z-index: -1;position: fixed;}
+ul li{list-style: none;float:left;}
+#u1 li:hover .a1,#u2 li:hover .a1{color:blue;}
+
+#snav{width:100%;height: 80px;background-color: white;}
+#logo{height:35px;width:auto;margin:15px 30px;}
+#spl{z-index: 1;position: absolute;margin:49px -175px;}
+
+#u1{margin-top:-40px;margin-left:740px;cursor: pointer;}
+#u1 li{margin:0 15px;}
+
+.sub1{z-index: 2;position: absolute;width:170px;background-color:white;margin-top:30px;}
+
+#ser-sub li,#c-sub li,#a-sub li,#s-sub li{margin-top:5px;margin-left:-38px;border-bottom:1px solid #dcdcdc;width:208px;}
+
+#lan{z-index: 1;position: absolute;right:0px;top:58px;background-color: white;width: 342px;padding-left:0px;cursor: pointer;}
+#lan li{width: 170px;height: 30px;border-bottom:1px solid #dcdcdc;}
+#lan li a{padding-left:30px;}
+#lan li:nth-child(even){border-left:1px solid #dcdcdc;}
+
+
+#slogin{z-index: 1;position: absolute;right:0px;top:0px;border-left: 1px solid #dcdcdc;height: 80px;width:130px;}
+#u2{margin-top:28px;margin-left:-30px;cursor: pointer;}
+#u2 li{margin:0px 10px;float:left;}
+
+#search{z-index: 0;position: absolute;top:200px;left:20%;}
+#text{width:690px;height:50px;border:13px solid #0289bc;border-radius: 17px;}
+#submit{width:160px;height:160px;background-color: #00afeb;color:white;border-radius:50%;border:13px solid #0289bc;
+margin-left:-30px;font-size:20px;cursor: pointer;}
+
+#s1{height: 300px;margin-top:430px;background-color: #c8ebf7;}
+#new{width:150px;height: auto;margin:-30px 130px;}
+#world{width:220px;height: auto;margin:-25px -205px;}
+
+p{z-index: 1;position: absolute;color:#19b5e0;font-size:30px;font-weight: 800;text-align: right;left:135px;
+margin-top:15px;}
+
+#middle{width:300px;height:170px;color:#1f2b78;margin-left:40%;
+        border-left:1px solid gray;border-right:1px solid gray;text-align: center;}
+.t{height:30px;width:160px;margin-top:10px;font-size:25px;text-align: center;}
+#p1{color:#1f2b78;font-size:10px;margin-top:35px;margin-left:25%;}
+
+#slist{background-color: #f5f5f5;height:300px}
+#u3{z-index: 1;position: absolute;color:#18ecec;cursor: pointer;}
+#u3 li{list-style: none;float:left;margin:0 80px;}
+
+.sub{font-size:15px;color:#c0c0c0;margin-top:5px;z-index: 1;position: absolute;width:320px;margin-left: -129px;}
+#u31 li,#u32 li,#u33 li,#u34 li,#u35 li{margin-top:2px;}
+
+#copyrihgt{text-align: center;background-color: white;font-size:14px;}
+
+
